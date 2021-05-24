@@ -1,0 +1,8 @@
+<templateSet group="Elixir">
+  <template name="insp" value="|&gt; IO.inspect(label: &quot;$LABEL$&quot;)" description="IO Inspect" toReformat="false" toShortenFQNames="true">
+    <variable name="LABEL" expression="concat(fileNameWithoutExtension(), &quot;:&quot;, lineNumber())" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ELIXIR_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
