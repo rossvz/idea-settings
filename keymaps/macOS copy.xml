@@ -5,6 +5,9 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl meta alt minus" />
   </action>
+  <action id="EditorToggleShowLineNumbers">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
