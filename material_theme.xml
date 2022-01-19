@@ -2,10 +2,10 @@
   <component name="MaterialThemeConfig">
     <option name="pristineConfig" value="false" />
     <option name="settingsSelectedTab" value="4" />
-    <option name="accentColor" value="7e57c2" />
-    <option name="selectedTheme" value="NIGHT_OWL" />
+    <option name="accentColor" value="ff79c5" />
+    <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="6c00f46d:176d9d20412:-8000" />
-    <option name="version" value="6.12.1" />
+    <option name="version" value="6.12.2" />
     <option name="stripedToolWindowsEnabled" value="true" />
   </component>
 </application>
