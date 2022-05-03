@@ -4,7 +4,7 @@
     <property name="created">2022-01-19T16:29:55</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-04-11T15:59:11</property>
+    <property name="modified">2022-05-03T17:11:43</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -724,33 +724,9 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
-    <option name="ELIXIR_ALIAS" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="ELIXIR_BIT">
       <value />
     </option>
-    <option name="ELIXIR_BRACES" baseAttributes="DEFAULT_BRACES" />
-    <option name="ELIXIR_BRACKET" baseAttributes="DEFAULT_BRACKETS" />
-    <option name="ELIXIR_CALLBACK" baseAttributes="ELIXIR_SPECIFICATION" />
-    <option name="ELIXIR_CHAR_LIST" baseAttributes="DEFAULT_STRING" />
-    <option name="ELIXIR_CHAR_TOKEN" baseAttributes="DEFAULT_ENTITY" />
-    <option name="ELIXIR_DOT" baseAttributes="DEFAULT_DOT" />
-    <option name="ELIXIR_EXPRESSION_SUBSTITUTION_MARK" baseAttributes="DEFAULT_BRACES" />
-    <option name="ELIXIR_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="ELIXIR_IGNORED_VARIABLE" baseAttributes="ELIXIR_VARIABLE" />
-    <option name="ELIXIR_MACRO_CALL" baseAttributes="ELIXIR_FUNCTION_CALL" />
-    <option name="ELIXIR_MAP" baseAttributes="DEFAULT_BRACES" />
-    <option name="ELIXIR_OPERATION_SIGN" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="ELIXIR_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="ELIXIR_PARENTHESES" baseAttributes="DEFAULT_PARENTHS" />
-    <option name="ELIXIR_PREDEFINED" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="ELIXIR_SIGIL" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="ELIXIR_SPECIFICATION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="ELIXIR_STRING" baseAttributes="DEFAULT_STRING" />
-    <option name="ELIXIR_STRUCT" baseAttributes="ELIXIR_MAP" />
-    <option name="ELIXIR_TYPE" baseAttributes="DEFAULT_METADATA" />
-    <option name="ELIXIR_TYPE_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="ELIXIR_VALID_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="ELIXIR_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="ENUM_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="80ffea" />
